@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sentence-transformers
+chromadb
+pillow
+psycopg2-binary
+python-multipart
+python-dotenv
+torch
+torchvision
+transformers
